@@ -1,0 +1,6 @@
+streamlit
+streamlit-authenticator
+PyYAML
+matplotlib
+opencv-python
+reportlab
