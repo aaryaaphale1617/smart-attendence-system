@@ -1,0 +1,8 @@
+streamlit
+streamlit-authenticator
+PyYAML
+matplotlib
+opencv-python-headless
+reportlab
+Pillow
+numpy
